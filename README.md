@@ -11,7 +11,6 @@ Nesse desafio você irá trabalhar mais a fundo com middlewares no Express. Des
 
 Para facilitar um pouco mais do conhecimento da regra de negócio, você irá trabalhar com a mesma aplicação do desafio anterior: uma aplicação para gerenciar tarefas (ou *todos*) mas com algumas mudanças.
 
-[Mais informações sobre o desafio podem ser acessadas através deste link.](https://www.notion.so/Desafio-02-Trabalhando-com-middlewares-4f89bf538c2e4ee291382b92bdc36790)
 
 </details>
 
